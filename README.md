@@ -33,7 +33,6 @@
 
 ```
 pip install -r requirements.txt
-
 ```
 
 ### 2.开始训练
@@ -42,7 +41,6 @@ pip install -r requirements.txt
 
 ```
 python train.py
-
 ```
 
 ## 实验结果
@@ -55,7 +53,6 @@ Epochs: 3
 Batch Size: 64
 Learning Rate: 1e-4 (Adam)
 Input Size: 224x224 (Resized from 32x32)
-
 ```
 
 ### 训练曲线
@@ -69,7 +66,6 @@ Model : ViT-Tiny (Pretrained)
 Dataset : CIFAR-10
 Image_Size : 224×224
 Accuracy: 95.19%
-
 ```
 
 ## 实验过程笔记
